@@ -1,0 +1,26 @@
+.headerContainer{
+    max-width:500px;
+    margin:40px auto;
+    text-align: center;
+  
+
+}
+
+.headerTitle{
+    font-weight: 200;
+    color:hsl(234, 12%, 34%);
+    font-size:2.3rem;
+    margin:0;
+}
+
+.headerHeading{
+    color:hsl(234, 12%, 34%);
+    font-size:2.3rem;
+    margin:0;
+
+}
+
+.headerInfo{
+    color:hsl(229, 6%, 66%);
+
+}
